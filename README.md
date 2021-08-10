@@ -1,5 +1,5 @@
 <img src='https://github.com/dholl018/dholl018/blob/main/banner.png' alt='banner that says darius'>
-# Darius Holland
+
 
 I am Darius from the US and I am a current Master of Engineering in Computer Science student. I enjoy learning new languages and hope to expand my knowledge as well as contribute to the greater field. 
 
