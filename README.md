@@ -2,7 +2,7 @@
 
 
 # Darius Holland
-I am Darius from the US and I am a current Master of Engineering in Computer Science student. I enjoy learning new languages and hope to expand my knowledge as well as contribute to the greater field.
+I am Darius from the US and I am part time Master of Engineering in Computer Science student while also working fulltime. I enjoy learning new languages and hope to expand my knowledge as well as contribute to the greater field. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dholl018)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/dholl018)  
 
