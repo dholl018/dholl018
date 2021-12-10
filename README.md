@@ -10,7 +10,7 @@ I am Darius from the US and I am part time Master of Engineering in Computer Sci
 
 Skills: C++ / VBA / Java 
 
-- 🔭 I’m currently working on this HTML,JavaScript and CSS. 
+- 🔭 I’m currently working on this HTML, JavaScript, jQuery and CSS. 
 - 🌱 I’m hope to learn Python and React 
 
 
