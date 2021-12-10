@@ -10,7 +10,7 @@ I am Darius from the US and I am a current Master of Engineering in Computer Sci
 
 Skills: C++ / VBA / Java 
 
-- 🔭 I’m currently working on this javaScript. 
+- 🔭 I’m currently working on this HTML,JavaScript and CSS. 
 - 🌱 I’m hope to learn Python and React 
 
 
